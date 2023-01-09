@@ -39,3 +39,8 @@ echo "For use with KeyTool, copy the *.auth and *.esl files to a FAT USB"
 echo "flash drive or to your EFI System Partition (ESP)."
 echo "For use with most UEFIs' built-in key managers, copy the *.cer files."
 echo ""
+
+
+# sign-efi-sig-list
+# cert-to-efi-sig-list
+# hash-to-efi-sig-list
